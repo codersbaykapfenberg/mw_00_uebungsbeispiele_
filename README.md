@@ -1,4 +1,4 @@
-# JAVA_Project_Template
+# Übungsbeispiele
 
 ---
 ## Überblick
